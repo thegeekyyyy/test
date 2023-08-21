@@ -1,5 +1,0 @@
-{{#user}}
-Name: Aayushi
-Skills: HTML, CSS, JS, Next.js
-Email: aayu.yadav27@gmail.com
-{{/user}}
